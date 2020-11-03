@@ -1,6 +1,6 @@
 import sys
 from math import cos, radians
-# Piano
+# Piano Tile Autobot
 # Create a string with spaces proportional to a cosine of x in degrees
 def make_dot_string(x):
     rad = radians(x)
